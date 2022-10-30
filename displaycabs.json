@@ -1,0 +1,98 @@
+{
+    "cabs": [
+        {
+            "idnumber": "001c",
+            "cab_type": "car",
+            "brand": "toyota",
+            "color": "black",
+            "year": "2015",
+            "con": "AC"
+        },
+        {
+            "idnumber": "002c",
+            "cab_type": "car",
+            "brand": "suzuki",
+            "color": "white",
+            "year": "2015",
+            "con": "AC"
+        },
+        {
+            "idnumber": "003c",
+            "cab_type": "car",
+            "brand": "audi",
+            "color": "blue",
+            "year": "2015",
+            "con": " Non AC"
+        },
+        {
+            "idnumber": "001v",
+            "cab_type": "van",
+            "brand": "toyota",
+            "color": "black",
+            "year": "2015",
+            "con": "AC"
+        },
+        {
+            "idnumber": "002v",
+            "cab_type": "van",
+            "brand": "toyota",
+            "color": "black",
+            "year": "2015",
+            "con": " Non AC"
+        },
+        {
+            "idnumber": "003v",
+            "cab_type": "van",
+            "brand": "toyota",
+            "color": "black",
+            "year": "2015",
+            "con": "AC"
+        },
+        {
+            "idnumber": "001t",
+            "cab_type": "threewheel",
+            "brand": "toyota",
+            "color": "black",
+            "year": "2015"
+        },
+        {
+            "idnumber": "002t",
+            "cab_type": "threewheel",
+            "brand": "toyota",
+            "color": "black",
+            "year": "2015"
+        },
+        {
+            "idnumber": "001l",
+            "cab_type": "lorry",
+            "brand": "toyota",
+            "color": "black",
+            "year": "2015",
+            "con": "2500kg"
+        },
+        {
+            "idnumber": "002l",
+            "cab_type": "lorry",
+            "brand": "toyota",
+            "color": "black",
+            "year": "2015",
+            "con": "3500kg"
+        },
+        {
+            "idnumber": "001tr",
+            "cab_type": "truck",
+            "brand": "toyota",
+            "color": "black",
+            "year": "2015",
+            "con": "7ft"
+        },
+        {
+            "idnumber": "002tr",
+            "cab_type": "truck",
+            "brand": "toyota",
+            "color": "black",
+            "year": "2015",
+            "con": "12ft"
+        }
+    ]
+}

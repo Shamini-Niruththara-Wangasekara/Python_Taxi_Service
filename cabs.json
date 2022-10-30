@@ -1,0 +1,32 @@
+{
+    "cars": [
+        {
+            "car_type": "car",
+            "brand": "toyota",
+            "color": "white",
+            "year": "2017"
+        },
+        {
+            "car_type": "car",
+            "brand": "suzuki",
+            "color": "red",
+            "year": "2019",
+            "con": "ac"
+        }
+    ],
+    "van": [
+        {
+            "car_type": "van",
+            "brand": "KDH",
+            "color": "WHITE",
+            "year": "2020"
+        },
+        {
+            "car_type": "van",
+            "brand": "mitsu",
+            "color": "brown",
+            "year": "1998",
+            "con": "NON AC"
+        }
+    ]
+}
